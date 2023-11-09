@@ -13,7 +13,7 @@ import java.util.regex.Pattern;
 public class Name {
 
     public static final String MESSAGE_CONSTRAINTS =
-            "Names should only contain alphanumeric characters and spaces, and it should not be blank"
+            "Names should only contain alphanumeric characters and spaces, and it should not be blank. \n"
                     + "Names should also not be purely numbers";
 
     /*
