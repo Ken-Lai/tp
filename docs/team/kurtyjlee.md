@@ -44,6 +44,7 @@ FumbleLog is a desktop productivity application used for managing contacts and e
   * `delete` command, where I detailed how to delete persons with groups.
 * Provided cosmetic enhancements and updates to the user guide.
 * Updated images for the user guide.
+* Updated commands with clearer descriptions of FumbleLog behaviour.
 
 
 ### Contributions to team-based tasks
@@ -54,6 +55,7 @@ FumbleLog is a desktop productivity application used for managing contacts and e
 * Helped with the release process.
 * Helped with the documentation process.
 * Coordinated sprints and code review.
+* Fixed bugs and issues.
 
 ### Contributions beyond the project team
 * Good moral support.

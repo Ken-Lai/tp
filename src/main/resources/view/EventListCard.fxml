@@ -27,7 +27,8 @@
       <FlowPane fx:id="names">
             <padding>
                <Insets bottom="3.0" top="3.0" />
-            </padding></FlowPane>
+            </padding>
+      </FlowPane>
       <FlowPane fx:id="groups" />
     </VBox>
       <rowConstraints>
